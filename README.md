@@ -14,7 +14,7 @@ The purpose of this project is to analyze the effect of Social Conformity Bias o
 * Qualtrics
 
 ## Project Description
-This paper investigates the impact of social conformity bias on perceptions of gender equality within the academic environment. We used Nudge Theory by implementing a conformity trigger on our survey participants and also implemented a veiled vs unveiled scenario for survey participants. We concluded that SDB does exist in gender bias and SDB is also excacerbated by a conformity trigger. 
+This paper investigates the impact of social conformity bias on perceptions of gender equality within the academic environment. We used Nudge Theory by implementing a conformity trigger on our survey participants and also implemented a veiled vs unveiled scenario for survey participants. We concluded that SDB does exist in gender bias and SDB is also more prevalent with a conformity trigger. 
 
 Below you can see the overview of our research results, indicating the conformity trigger exhibits higher levels of SDB and the non conformity trigger exhibits lower levels of SDB. 
 
